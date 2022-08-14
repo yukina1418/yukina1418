@@ -6,7 +6,6 @@
 <div align='center'> 🖥현재 공부중인 백엔드 주니어 개발자입니다.</div>
 <br>
 <div align='center'> Email : yukina1418@gmail.com</div>
-<div align='center'> Portfolio : <a href="https://friendly-icebreaker-718.notion.site/Louis-Portfolio-550c3bf17a88401fa52d691f19116f69">Notion Link</a></div>
 <div align='center'> Blog : <a href="https://velog.io/@yukina1418">https://velog.io/@yukina1418</a></div>
 <br>
 <p align="center">
