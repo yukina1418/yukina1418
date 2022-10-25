@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Louis's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
 
-<div align='center'> 🖥현재 공부중인 백엔드 주니어 개발자입니다.</div>
+<div align='center'> 🖥열심히 현업에서 달리고 있는 신입 백엔드 개발자입니다.</div>
 <br>
 <div align='center'> Email : yukina1418@gmail.com</div>
 <div align='center'> Blog : <a href="https://velog.io/@yukina1418">https://velog.io/@yukina1418</a></div>
