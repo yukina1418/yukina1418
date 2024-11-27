@@ -9,7 +9,15 @@
 <div align='center'> Blog : <a href="https://velog.io/@yukina1418">https://velog.io/@yukina1418</a></div>
 <br>
 
-<div align='center'> 현재 깃허브를 사용하고 있지 않기에, 블로그로 들어오시면 최근 소식을 확인 하실 수 있습니다. </div>
+<div align='center'> 
+  
+  현재 깃허브를 사용하고 있지 않기에, 블로그로 들어오시면 최근 소식을 확인 하실 수 있습니다.
+  
+</br>
+  
+  ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/yukina1418?theme=light&posts=3)
+  
+</div>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
